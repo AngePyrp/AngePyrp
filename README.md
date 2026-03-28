@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Angelos Pyrpyris, a passionate Full-stack web developer from Greece and tech enthusiast. 
-Currently focusing on front-end and MERN stack technologies, with an emphasis in React.js.
+Currently focusing on **front-end** and **MERN stack** technologies, with emphasis in **React.js**.
  
 <!--
 **AngePyrp/AngePyrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
