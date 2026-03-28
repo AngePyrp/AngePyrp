@@ -37,5 +37,4 @@ const Angelos = {
   askMeAbout: ["tech tutorials", "learning resources"],
   funFact: "There are only 10 kinds of people in the world: those who understand binary and those who don't 😄"
 };
-
 console.info(Angelos);
