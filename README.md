@@ -25,7 +25,7 @@ const Angelos = {
   location: "Tripoli, Greece",
   
   technicalSkills: {
-    frontend: ["HTML", "CSS3", "JavaScript (ES6+)", React.js, Next.js, Redux],
+    frontend: ["HTML", "CSS3", "JavaScript (ES6+)", "React.js", "Next.js", "Redux"],
     backend:  ["Node.js", "Express.js", "PHP"],
     Databases: ["MySQL (SQL)", "MongoDB (NoSQL)"],
     Tools & Methodologies: ["npm", "Git/GitHub", "Full-Stack Integration (RESTful APIs)", "Agile/Scrum"]
