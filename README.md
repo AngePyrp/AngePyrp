@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Angelos Pyrpyris, a passionate software developer and tech enthusiast. 
 <!--
 **AngePyrp/AngePyrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
