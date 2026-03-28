@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Angelos Pyrpyris, a passionate Full-stack web developer from Greece and tech enthusiast. 
+I'm Angelos Pyrpyris, a passionate full-stack web developer from Greece and tech enthusiast. 
 Currently focusing on **front-end** and **MERN stack** technologies, with emphasis in **React.js**.
  
 <!--
