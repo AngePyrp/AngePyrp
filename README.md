@@ -1,6 +1,6 @@
-## Hi there 👋
-I'm Angelos Pyrpyris, a passionate full-stack web developer from Greece and tech enthusiast. 
-Currently focusing on front-end and MERN stack technologies, with emphasis in React.js.
+## 👋 Hi there!
+I'm Angelos Pyrpyris, a passionate Junior Web Developer from Tripoli, Greece 🇬🇷.
+I love building things for the web and I'm currently focusing on modern front-end technologies and the MERN stack, with special interest in React.js.
  
 <!--
 **AngePyrp/AngePyrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,24 +17,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🛠️ Tech Stack
+### 🛠️ My Tech Stack
+
 ```javascript
 const Angelos = {
-  work: "Software Architect/ Engineer",
-  home: "Tripoli",
-  code: ["Typescript", "Javascript", "Java", "C#", "CSS", "html"],
-  askMeAbout: ["programming topics"],
+  role: "Junior Web Developer",
+  location: "Tripoli, Greece",
+  
+  currentlyLearning: ["React.js", "TypeScript", "Node.js"],
+  
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  
   technologies: {
-    backEnd: ["Spring Boot", "NodeJS", ".Net"],
-    frontEnd: ["vue", "preact", "angular", "winforms", "wpf"],
-    build: ["esbuild", "webpack", "gradle", "Github Actions", "Argo Workflows", "jenkins", "msbuild"],
-    devOps: ["kubernetes", "elk stack", "argo-cd", "helm", "docker", "keycloak"],
-    databases: ["mongo"],
-    misc: ["VSCode Extensions"]
+    frontend: ["React", "Vue", "Tailwind CSS"],
+    backend:  ["Node.js", "Express"],
+    tools:    ["Git", "GitHub", "VS Code", "Docker"],
+    other:    ["MongoDB", "REST APIs"]
   },
-  architecture: ["Microservices", "Serverless Architecture"],
-  currentFocus: "Uniting software from two decades",
-  hobbies: ["Gaming"],
-  funFact: "There are only 10 kinds of people in the world: the people who understand binary numbers and the people who don't."
+
+  askMeAbout: ["web development", "React", "learning resources", "frontend tips"],
+
+  funFact: "There are only 10 kinds of people in the world: those who understand binary and those who don't 😄"
 };
-console.info(Angelos);
+
+console.log("Hello, I'm Angelos! 👨‍💻");
