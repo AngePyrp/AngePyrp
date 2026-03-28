@@ -31,7 +31,7 @@ const Angelos = {
     Tools & Methodologies: ["npm", "Git/GitHub", "Full-Stack Integration (RESTful APIs)", "Agile/Scrum"]
     Architecture & Design Patterns: ["Client-Server", "Monolithic", "Microservices", "SOA", "MVC"]
     currentlyLearning / Other: ["TypeScript", "Bootstrap", "Tailwind CSS"]
-    Misc: ["VSCode Extensions"]
+    misc: ["VSCode Extensions"]
   },
 
   askMeAbout: ["tech tutorials", "learning resources"],
