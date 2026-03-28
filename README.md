@@ -1,6 +1,6 @@
 ## 👋 Hi there!
-I'm Angelos Pyrpyris, a passionate Junior Web Developer from Greece 🇬🇷.
-I'm currently focusing on modern front-end technologies and the MERN stack, with emphasis in React.js.
+I'm Angelos Pyrpyris, a passionate Junior Web Developer from Greece 🇬🇷.\
+I'm currently focusing on modern front-end technologies and the MERN stack, with emphasis in React.js.\
 Committed to continuous learning and growth, with the goal of enhancing my skills throughout my career as a Junior Software Engineer.
  
 <!--
