@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-I'm Angelos Pyrpyris, a passionate Junior Web Developer from Tripoli, Greece 🇬🇷.
+I'm Angelos Pyrpyris, a passionate Junior Web Developer from Greece 🇬🇷.
 I love building things for the web and I'm currently focusing on modern front-end technologies and the MERN stack, with special interest in React.js.
  
 <!--
