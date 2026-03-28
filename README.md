@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 I'm Angelos Pyrpyris, a passionate Junior Web Developer from Greece 🇬🇷.
-I'm currently focusing on modern front-end technologies and the MERN stack, with special interest in React.js.
+I'm currently focusing on modern front-end technologies and the MERN stack, with emphasis in React.js.
  
 <!--
 **AngePyrp/AngePyrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
