@@ -4,7 +4,7 @@ I'm currently focusing on modern front-end technologies and the MERN stack, with
  
 <!--
 **AngePyrp/AngePyrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+"Hello, I'm Angelos! 👨‍💻"
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -38,4 +38,4 @@ const Angelos = {
   funFact: "There are only 10 kinds of people in the world: those who understand binary and those who don't 😄"
 };
 
-console.log("Hello, I'm Angelos! 👨‍💻");
+console.log(Angelos);
