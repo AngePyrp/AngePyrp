@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 👨‍💻 Tech Stack
 ```javascript
 const Angelos = {
   work: "Software Architect/ Engineer",
