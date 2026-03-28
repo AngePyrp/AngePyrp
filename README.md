@@ -24,13 +24,13 @@ const Angelos = {
   role: "Junior Web Developer",
   location: "Tripoli, Greece",
   
-  Technical Skills: {
-    Front-end: ["HTML", "CSS3", "JavaScript (ES6+)", React.js, Next.js, Redux],
-    Back-end:  ["Node.js", "Express.js", "PHP"],
+  technicalSkills: {
+    frontend: ["HTML", "CSS3", "JavaScript (ES6+)", React.js, Next.js, Redux],
+    backend:  ["Node.js", "Express.js", "PHP"],
     Databases: ["MySQL (SQL)", "MongoDB (NoSQL)"],
     Tools & Methodologies: ["npm", "Git/GitHub", "Full-Stack Integration (RESTful APIs)", "Agile/Scrum"]
     Architecture & Design Patterns: ["Client-Server", "Monolithic", "Microservices", "SOA", "MVC"]
-    Currently Learning / Other: ["TypeScript", "Bootstrap", "Tailwind CSS"]
+    currentlyLearning / Other: ["TypeScript", "Bootstrap", "Tailwind CSS"]
     Misc: ["VSCode Extensions"]
   },
 
