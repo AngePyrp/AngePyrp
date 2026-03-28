@@ -29,7 +29,7 @@ const Angelos = {
     backend:  ["Node.js", "Express.js", "PHP"],
     Databases: ["MySQL (SQL)", "MongoDB (NoSQL)"],
     Tools & Methodologies: ["npm", "Git/GitHub", "Full-Stack Integration (RESTful APIs)", "Agile/Scrum"],
-    Architecture & Design Patterns: ["Client-Server", "Monolithic", "Microservices", "SOA", "MVC"],
+    Architecture & "Design Patterns": ["Client-Server", "Monolithic", "Microservices", "SOA", "MVC"],
     currentlyLearning / Other: ["TypeScript", "Bootstrap", "Tailwind CSS"],
     misc: ["VSCode Extensions"]
   },
