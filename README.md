@@ -24,19 +24,16 @@ const Angelos = {
   role: "Junior Web Developer",
   location: "Tripoli, Greece",
   
-  currentlyLearning: ["React.js", "TypeScript", "Node.js"],
-  
-  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  
-  technologies: {
-    frontend: ["React", "Vue", "Tailwind CSS"],
-    backend:  ["Node.js", "Express"],
-    tools:    ["Git", "GitHub", "VS Code", "Docker"],
-    other:    ["MongoDB", "REST APIs"]
+  Technical Skills: {
+    frontend: ["HTML", "CSS3", "JavaScript (ES6+)", React.js, Next.js, Redux],
+    backend:  ["Node.js", "Express.js", "PHP"],
+    Databases: ["MySQL (SQL)", "MongoDB (NoSQL)"],
+    Tools & Methodologies: ["npm", "Git/GitHub", "Full-Stack Integration (RESTful APIs)", "Agile/Scrum"]
+    Architecture & Design Patterns: ["Client-Server", "Monolithic", "Microservices", "SOA", "MVC"]
+    Currently Learning / Other: ["TypeScript", "Bootstrap", "Tailwind CSS"]
   },
 
   askMeAbout: ["tech tutorials", "learning resources"],
-
   funFact: "There are only 10 kinds of people in the world: those who understand binary and those who don't 😄"
 };
 
